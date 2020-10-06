@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Rajgor</h1>  
 <h3 align="center">Android Developer @ <a href="https://www.unifynd.com/">Unifynd</a></h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h4rz" alt="h4rz" /> </p>  
-  
 - 🔭 I’m currently working on **projects related to Android.**  
   
 - 🌱 I’m currently learning **Mobile development, Python and Machine Learning.**  
