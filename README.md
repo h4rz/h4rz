@@ -26,4 +26,4 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rz&hide=javascript,php,html&layout=compact" alt="h4rz" /></p>  
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4rz&show_icons=true" alt="h4rz" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=h4rz&show_icons=true" alt="h4rz" /></p>
