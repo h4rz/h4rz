@@ -15,7 +15,7 @@
 <p align="left">  
 <h3 align="left">Connect with me:</h3>  
 <a href="https://twitter.com/harsh_rajgor9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harsh_rajgor9" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/harsh-r-b99b9ba0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-r-b99b9ba0" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/harsh-rajgor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-rajgor" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/harsh-rajgor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="harsh-rajgor" height="30" width="40" /></a>  
 <a href="https://harshrajgor.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="harshrajgor" height="30" width="40" /></a>
 <a href="https://leetcode.com/h4rz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="h4rz" height="30" width="40" /></a>
